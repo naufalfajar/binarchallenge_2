@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="islamic_green">#00AA13</color>
+    <color name="buckbuckblue">#00AED6</color>
+    <color name="bluegp">#0091B3</color>
+    <color name="lightjade">#C3FDB8</color>
+    <color name="tokopedia">#42b549</color>
+    <color name="tokopedia_toolbar">#21CE7E</color>
+    <color name="time">#E41B17</color>
+
 </resources>

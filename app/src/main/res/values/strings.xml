@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">learnAndroid</string>
+    <string name="searchbar_hint"><font size="10">Cari layanan, makanan, dan tujuan</font></string>
+    <string name="ads_content_title">Festival idaman perempuan! &#128525;</string>
+    <string name="ads_content">Temukan kebutuhan cantik-mu hemat pakai GoPay dengan cashback 50%. Klik! &#128072;</string>
+    <string name="searchbar_hint_tokopedia"><font size="10">Cari powerbank</font></string>
+    <string name="toolbar_send_msg"><font size="10">Dikirim ke <b>Rumah Naufal Fajar</b></font></string>
+
+    <string name="gopay_tokopedia"><font size="9"><b>Rp100.000</b></font></string>
+    <string name="gopaycoin_tokopedia"><font size="9">123.456 Coins</font></string>
+    <string name="member_tokopedia"><font size="9"><b>Member Gold</b></font></string>
+    <string name="kupon_tokopedia"><font size="9">123.456 Kupon</font></string>
+    <string name="videomenarik"><font size="15"><b>Video menarik untukmu</b></font></string>
+    <string name="kejardiskon"><font size="15"><b>Kejar Diskon</b></font></string>
+    <string name="lihatsemua"><font size="12"><b>Lihat semua</b></font></string>
+    <string name="vidcontent_1"><font size="8"><b>Agung Hapsah ingat password YouTube?</b></font></string>
+    <string name="vidstore_1"><font size="6">Agung Hapsah</font></string>
+    <string name="vidcontent_2"><font size="8"><b>Wah Tesla harganya MURAH BANGET!!</b></font></string>
+    <string name="vidstore_2"><font size="6">Bareskrim Polri</font></string>
+    <string name="berakhirdalam"><font size="10">Berakhir dalam</font></string>
+    <string name="waktu_tokopedia"><font size="8">09 menit 26 detik</font></string>
+
+    <string name="content_price"><font size="9"><b>Rp 69.900</b></font></string>
+    <string name="before_disc"><font size="6"><strike>Rp 94.900</strike></font></string>
+    <string name="cabang"><font size="7">Jakarta Selatan</font></string>
+    <string name="segerahabis"><font size="7">Segera Habis</font></string>
+
 </resources>

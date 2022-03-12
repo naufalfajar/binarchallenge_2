@@ -4,15 +4,13 @@ import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : AppCompatActivity() {
+class Tokopedia : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.tokopedia)
         inifungsi()
         carabuat()
-
     }
-
     private fun inifungsi(){
         Log.e("inifungsi","""
             Folder Assets ini sangat berguna sekali pada projek Android Studio kalian. 

@@ -3,7 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/bg_red_round.xml" value="0.211" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/bg_tokopedia_top.xml" value="0.211" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/bg_white_bot_round.xml" value="0.2115" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/bg_white_round.xml" value="0.211" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/bg_white_round_15.xml" value="0.137" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/bg_white_top_round.xml" value="0.2115" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/card_view.xml" value="0.2115" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.211" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_account_balance_wallet_24.xml" value="0.2115" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.211" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.211" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.137" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.137" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.137" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_receipt_24.xml" value="0.211" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.137" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/searchbar.xml" value="0.2115" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/searchbar_tokopedia.xml" value="0.137" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/drawable/toolbar_gojek.xml" value="0.2115" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/layout/activity_8.xml" value="0.1265625" />
         <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/layout/gojek.xml" value="0.264" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/layout/tokopedia.xml" value="0.4" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/menu/bot_nav_menu_gojek.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/learnAndroid/app/src/main/res/menu/bot_nav_tokopedia.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>

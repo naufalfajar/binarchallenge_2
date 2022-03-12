@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/beranda_toko"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/feed_toko"
+        android:icon="@drawable/ic_baseline_feed_24"
+        android:title="Feed"/>
+    <item
+        android:id="@+id/official_toko"
+        android:icon="@drawable/ic_baseline_storefront_24"
+        android:title="Official Store"/>
+    <item
+        android:id="@+id/wishlist_toko"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:title="Wishlist"/>
+    <item
+        android:id="@+id/transaksi_toko"
+        android:icon="@drawable/ic_baseline_receipt_24"
+        android:title="Transaksi"/>
+</menu>
